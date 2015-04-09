@@ -1,0 +1,13 @@
+item.fire_staff.name=Staff of Flames
+
+itemGroup.witchcraft=WitchCraft
+
+stats.switchmode_start.name=Your
+stats.switchmode_middle.name=is now in
+stats.switchmode_end.name=mode
+stats.mode.name=Mode:
+stats.switch.name=Sneak + Right Click to change mode.
+
+stats.fire_staff_mode_0.name=Fire Gun
+stats.fire_staff_mode_1.name=Ring of Fire
+stats.fire_staff_mode_2.name=Fire Rain
